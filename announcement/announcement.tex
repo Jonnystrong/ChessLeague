@@ -1,20 +1,27 @@
-\documentclass{osa-article}
-\journal{osac}
+\documentclass{article}
 
-\articletype{Research Article}
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
 
-\usepackage{lineno}
-\linenumbers
+% Set page size and margins
+% Replace `letterpaper' with`a4paper' for UK/EU standard size
+\usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+\title{Chess League}
+\author{Zeyecx}
 
 \begin{document}
-
-\title{Chess tournament modelled on the mid season invitational}
-
-\author{Donbur, Jonny and Zeyecx}
-
+	\maketitle
+	 
 \begin{abstract}
-The idea is to develop a chess tournament in which teams of different streamers play against each other.
-This will first be done in a group system which will later be replaced by a knockout system. 
+	The idea is to develop a chess tournament in which teams of different streamers play against each other.
+	This will first be done in a group system which will later be replaced by a knockout system. 
 \end{abstract}
 
 
@@ -26,12 +33,12 @@ The game is played in different rating groups (1000, 1400, 1800, 2000, 2200, Str
 
 The rating groups are:
 \begin{itemize}
-    \item 1000
-    \item 1400 
-    \item 1600
-    \item 1800
-    \item 2000
-    \item 2200
+	\item 1000
+	\item 1400 
+	\item 1600
+	\item 1800
+	\item 2000
+	\item 2200
 \end{itemize}
 If there is a tie, the two streamers play against each other. If they do not want to do this, they can appoint a sub to play in their place.
 
@@ -44,5 +51,5 @@ However, since we have no registrations, the schedules will be announced elsewhe
 
 \section{Appendix}
 This is the basic version. Further changes will follow
-%%%%%%%%%%%%%%%%%%%%%%% References %%%%%%%%%%%%%%%%%%%%%%%%%
+	
 \end{document}
