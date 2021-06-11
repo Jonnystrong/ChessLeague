@@ -1,6 +1,10 @@
 # Latex and VSC
 _*.*
 
+# Disable PDF
+*.pdf
+
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
