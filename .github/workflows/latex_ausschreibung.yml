@@ -1,4 +1,4 @@
-name: Latex ausschreibung
+name: Compile German Version
 
 on:
   push:

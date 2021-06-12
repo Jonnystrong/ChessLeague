@@ -1,4 +1,4 @@
-name: Latex announcement
+name: Compile English Version
 
 on:
   push:
