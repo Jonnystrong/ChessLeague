@@ -1,4 +1,4 @@
-name: Compile Regelwerk
+name: Compile Regelwerk German
 
 on:
   push:
