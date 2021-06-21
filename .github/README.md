@@ -3,6 +3,7 @@
 ## Downloads
  - German Workflow: [ChessLeagueGer](https://github.com/Zeyecx/ChessLeague/actions/workflows/ChessLeagueGer.yml)
  - English Workflow: [ChessLeagueEng](https://github.com/Zeyecx/ChessLeague/actions/workflows/ChessLeagueEng.yml)
+ - Regelwerk: [Regelwerk German](https://github.com/Zeyecx/ChessLeague/actions/workflows/Regelwerk.yml)
  - All Workflows: [ChessLeague](https://github.com/Zeyecx/ChessLeague/actions)
 
 ## Abstract
